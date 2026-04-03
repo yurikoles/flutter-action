@@ -1,10 +1,13 @@
 ---
 name: Enforce SHA pinning
-about: You want to request `Enforce SHA pinning`
-title: DON'T FILE THIS ISSUE
+about: Note that this feature request is not supported in this repository.
+title: "[Declined] Request: Enforce SHA pinning"
 labels: wontfix
 assignees: ''
-
 ---
 
-Please don't do this. This feature isn't welcome in this repository. Feel free to search through issues to find a reason why.
+Thank you for being so interested! However, we do not support or accept requests to enforce SHA pinning in this repository. 
+
+We have discussed this previously and decided against implementing it. Please search through our closed issues for more context on this technical decision. 
+
+**Please do not submit this issue, as it will be immediately closed.**
